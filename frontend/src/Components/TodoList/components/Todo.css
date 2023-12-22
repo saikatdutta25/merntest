@@ -1,0 +1,8 @@
+.addTodoForm, .todoList {
+    width: 25%;
+    margin: 0 auto;
+    padding: 0.8rem;
+}
+.todoList i {
+    cursor: pointer;
+}
